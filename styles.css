@@ -1,0 +1,117 @@
+.btn-primary{
+  background-color: #66001a;
+}
+
+.display-4{
+  font-family: georgia;
+  color: #66001a
+}
+
+.display-4: hover{
+  opacity: 0.7;
+}
+
+.wow{
+  font-size: 19px;
+  font-family: georgia;
+  color: #009966;
+}
+
+.btn-light{
+  background-color: #ccffe6;
+}
+.card-text{
+  font-family: georgia;
+  font-size: 19px;
+}
+
+.card-title{
+  color: #66001a;
+  font-family: Cambria;
+  font-size: 22px;
+}
+.nav-link{
+  font-family: Franklin Gothic Medium;
+}
+.card-header{
+  font-size: 29px;
+  font-family: Franklin Gothic Medium;
+}
+
+/* Style all font awesome icons */
+.fa{
+  padding: 17px;
+  font-size: 100px;
+  width: 53px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram{
+  background: #5933cc;
+  color: white;
+}
+
+.fa-pinterest{
+  background: #cc0000;
+  color: white;
+}
+
+.beh{
+  font-size: 22px;
+  font-family: georgia;
+}
+
+.list{
+  font-size: 20px;
+  font-family: times new roman;
+}
+
+.dep{
+  font-size: 21px;
+  font-family: georgia;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.display{
+  font-family: times new roman;
+  color: #33001a;
+  font-size: 50px;
+}
+.h5{
+  font-size: 18px;
+}
+
+.card-body{
+  font-size: 50px;
+}
+
+
+.d{
+  font-size: 22px;
+}
